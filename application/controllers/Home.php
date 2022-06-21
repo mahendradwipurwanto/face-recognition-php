@@ -13,6 +13,8 @@ class Home extends CI_Controller
 
     public function index()
     {
-        $this->templatefront->view('home/home');
+        $data['ok'] = false;
+        // session_destroy();
+        $this->templatefront->view('home/home', $data);
     }
 }

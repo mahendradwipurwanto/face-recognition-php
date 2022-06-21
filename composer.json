@@ -5,7 +5,9 @@
 	"require": {
 		"phpoffice/phpspreadsheet": "dev-master",
 		"phpmailer/phpmailer": "dev-master",
-		"tecnickcom/tcpdf": "dev-main"
+		"tecnickcom/tcpdf": "dev-main",
+		"guzzlehttp/guzzle": "7.0",
+		"chriskacerguis/codeigniter-restserver": "dev-master"
 	},
 	"license": "AFL-1.1",
 	"authors": [{

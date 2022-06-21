@@ -1,0 +1,12 @@
+#my_result {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+}
+
+#my_result > img {
+    width: 400px;
+    box-shadow: rgb(122 76 164 / 10%) 0px 0px 0.318135vw 0.259067vw;
+    border-radius: 10px;
+    border: 5px solid #F8F8F8;
+}
